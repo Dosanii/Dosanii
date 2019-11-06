@@ -8,12 +8,12 @@ deck = {
 	'WR': 3,
 	'WG': 5,
 	'UB': 3,
-	'UR': 3,
+	'UR': 4,
 	'UG': 4,
 	'BR': 4,
 	'BG': 6,
 	'RG': 4,
-	'Other': 54
+	'Other': 53
 }
 
 def binom(n, k):
